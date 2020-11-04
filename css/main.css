@@ -50,28 +50,6 @@ body {
 .item-1,
 .item-2,
 .item-3 {
-  min-height: 60vh;
-  clip-path: polygon(0 0, 100% 0, 100% 85%, 0 95%);
+  min-height: 10vh;
+  clip-path: polygon(0 0, 35% 0, 65% 100%, 0 100%);
 }
-
-/* #example{
-    background-repeat: repeat-x;    
-    margin-left: 20px;
-    margin-top: 13px;
-}
-
-#example .but1{    
-   
-    line-height: 0px;
-    margin-top: 0px;
-    margin-left: 0px;
-    margin-right:0px;
-    display:inline-block;
-    position:relative;
-}
-
-#example .but1 a {
-    position:absolute;
-    top: 80%;
-    left: 42.5%;
-} */
