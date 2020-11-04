@@ -54,7 +54,7 @@ body {
   clip-path: polygon(0 0, 100% 0, 100% 85%, 0 95%);
 }
 
-#example{
+/* #example{
     background-repeat: repeat-x;    
     margin-left: 20px;
     margin-top: 13px;
@@ -72,6 +72,6 @@ body {
 
 #example .but1 a {
     position:absolute;
-    top: 20%;
-    left: 20%;
-}
+    top: 80%;
+    left: 42.5%;
+} */
