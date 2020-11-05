@@ -58,11 +58,11 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-.horzLine {
-  background: #fff;
   margin: 0 15px;
+  /* background: #fff; */
 }
+
+
 
 .horzLine:before,
 .horzLine:after {
@@ -70,4 +70,8 @@ body {
   height: 2px;
   flex: 1;
   content: '';
+}
+.polygon {
+  clip-path: polygon(0 0, 100% 10%, 100% 100%, 0 90%);
+  background: grey;
 }
